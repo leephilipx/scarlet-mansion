@@ -12,9 +12,8 @@ Supplementary characters: ```You```, ```emptytextobject```
 
 ## Introduction Script
 
-*Note: Double space at the end of a line for line break*
-
-> Display Canvas Information: "You are a detective in this game. Keep your eyes peeled for important clues!"
+*Display Canvas Information: "You are a detective in this game. Keep your eyes peeled for important clues!"*
+> Note: Double space at the end of a line for line break
 
 ### Background 1: Outside Mansion
 ```You``` Wow, Tatsumi's home sure is big!  
@@ -52,7 +51,7 @@ Supplementary characters: ```You```, ```emptytextobject```
 ```Masao.annoyed``` Gosh, surely the culprit won't reveal himself/herself. I think I will head back to my room while waiting!  
 ```Yuna.angry``` Me too!  
 
-> Display Canvas Instructions 1
+*Display Canvas Instructions 1*
 
 ---
 
