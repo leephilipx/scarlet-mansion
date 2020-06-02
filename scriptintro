@@ -7,10 +7,11 @@ Available character emotions:
 
 PLEASE FOLLOW FORMATTING BELOW
 
-<< Canvas: "This is a detective game, please read through all the scenes carefully" >>
+<< Canvas: "You are a disguised detective in this game. Please do not skip through the following scenes." >>
 
 << Background 1: Mansion >>
-Detective.
+Player - Wow, Tatsumi's home sure is big!
+Player - There's an auction happening today, those cars must belong to the bidders.
 
 << Background 2: Flashback to Detective's Home >>
 
