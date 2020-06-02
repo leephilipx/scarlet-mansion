@@ -1,4 +1,4 @@
-Available character emotions:
+#Available character emotions:
 • Masao (annoyed, happy, sad, shocked, smiling)
 • Rinni (angry, happy, sad, shocked, smiling)
 • Tatsumi (angry, happy, neutral, sad, shocked, smiling)
