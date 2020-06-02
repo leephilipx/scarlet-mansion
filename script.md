@@ -2,8 +2,8 @@
 | Character | Emotions |
 | --------- | -------- |
 | Masao | annoyed, happy, sad, shocked, smiling |
-| Rinni |angry, happy, sad, shocked, smiling |
-| Tatsumi | angry, happy, neutral, sad, shocked, smiling |
+| Rinni | angry, happy, sad, shocked, smiling |
+| ```Tatsumi``` | ```angry```, ```happy```, ```neutral```, ```sad```, ```shocked```, ```smiling``` |
 | Yuna | angry, sad, shocked, smiling |
 
 Supplementary characters: ```You```, ```emptytextobject```
@@ -12,7 +12,7 @@ Supplementary characters: ```You```, ```emptytextobject```
 
 ## Introduction Script
 
-*Canvas: "You are a detective in this game. Look out for important information from now!"*
+*Canvas: "You are a detective in this game. Look out for important information!"*
 
 ### Background 1: Outside Mansion
 ```You``` Wow, Tatsumi's home sure is big!  
@@ -29,7 +29,7 @@ Supplementary characters: ```You```, ```emptytextobject```
 ```Rinni.smiling``` Well, this is a rather exquisite auction here. You must be an important person.  
 ```You``` Yeah, I guess so. I've known the host for many years now.  
 ```Rinni.shocked``` Oh is that so? Well, I just touched down from Paris.  
-```Rinni.smiling``` I believe the other bidders are also from various countries.   
+```Rinni.smiling``` I believe the other bidders are also from various countries. Hmm, I wonder what professions are they from such that they want the item. <sub>[Highlights that the characters should not know each others' occupations]</sub>  
 ```Tatsumi.smiling``` *interupts* Welcome everyone! Come inside! Our other guests just arrived before you two, make yourselves comfortable. You can unpack in your rooms upstairs.  
 ```Tatsumi.happy``` Our private auction shall begin in an hour!  
 
