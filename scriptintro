@@ -14,7 +14,9 @@ Player - Wow, Tatsumi's home sure is big!
 Player - There's an auction happening today, those cars must belong to other bidders.
 
 << Background 2: Flashback to Detective's Home >>
-emptytextobj      Phone rings
+emptytextobj      Phone rings ...  Call from Tatsumi
+Tatsumi.smiling   Hey, old friend!
+Player            Hi Tatsumi!
 
 << Background 3: Outside Mansion >>
 Rinni.smiling     Hi, I'm guessing you're here for the auction too. I'm Rinni, nice knowing you.
