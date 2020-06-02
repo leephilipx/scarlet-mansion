@@ -1,21 +1,22 @@
 ## Available character emotions:
-• Masao (annoyed, happy, sad, shocked, smiling)
-• Rinni (angry, happy, sad, shocked, smiling)
-• Tatsumi (angry, happy, neutral, sad, shocked, smiling)
-• Yuna (angry, sad, shocked, smiling)
+Character | Emotions
+--------- | --------
+Masao | annoyed, happy, sad, shocked, smiling
+Rinni |angry, happy, sad, shocked, smiling
+Tatsumi | angry, happy, neutral, sad, shocked, smiling
+Yuna | angry, sad, shocked, smiling
 
-
-***Please follow the formatting below***
+---
 
 ## Introduction Script
 
 << Canvas: "You are a disguised detective in this game. Please do not skip through the following scenes, some information might be important." >>
 
-### Background 1: Outside Mansion >>
+### Background 1: Outside Mansion
 Player - Wow, Tatsumi's home sure is big!
 Player - There's an auction happening today, those cars must belong to other bidders.
 
-### Background 2: Flashback to Detective's Home >>
+### Background 2: Flashback to Detective's Home
 emptytextobj      Phone rings ...  Call from Tatsumi
 Tatsumi.smiling   Hey, old friend!
 Player            Hi Tatsumi!
@@ -45,4 +46,4 @@ Tatsumi.happy     Our private auction shall begin in an hour!
 
 
 
-### Thank you guys 😊
+## Thank you guys 😊
