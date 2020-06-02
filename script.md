@@ -6,7 +6,7 @@
 | Tatsumi | angry, happy, neutral, sad, shocked, smiling |
 | Yuna | angry, sad, shocked, smiling |
 
-Supplementary characters: ```Player```, ```emptytextobject```
+Supplementary characters: ```You```, ```emptytextobject```
 
 ---
 
@@ -15,23 +15,23 @@ Supplementary characters: ```Player```, ```emptytextobject```
 *Canvas: "You are a detective in this game. Look out for important information from now!"*
 
 ### Background 1: Outside Mansion
-Player > Wow, Tatsumi's home sure is big!  
-Player > There's an auction happening today, those cars must belong to other bidders.  
+```You``` Wow, Tatsumi's home sure is big!  
+```You``` There's an auction happening today, those cars must belong to other bidders.  
 
 ### Background 2: Flashback to Detective's Home
-```emptytextobject```  Phone rings ...  Call from Tatsumi  
-Tatsumi.smiling > Hey, old friend!  
-Player > Hi Tatsumi!  
+```emptytextobject``` Phone rings ...  Call from Tatsumi  
+```Tatsumi.smiling``` Hey, old friend!  
+```You``` Hi Tatsumi!  
 
 ### Background 3: Outside Mansion 
-Rinni.smiling > Hi, I'm guessing you're here for the auction too. I'm Rinni, nice knowing you.  
-Player > Hi Rinni, pleasant to meet you.  
-Rinni.smiling > Well, this is a rather exquisite auction here. You must be an important person.  
-Player > Yeah, I guess so. I've known the host for many years now.  
-Rinni.shocked > Oh is that so? Well, I just touched down from Paris.  
-Rinni.smiling > I believe the other bidders are also from various countries.   
-```Tatsumi.smiling``` > *interupts* Welcome everyone! Come inside! Our other guests just arrived before you two, make yourselves comfortable. You can unpack in your rooms upstairs.  
-Tatsumi.happy > Our private auction shall begin in an hour!  
+```Rinni.smiling``` Hi, I'm guessing you're here for the auction too. I'm Rinni, nice knowing you.  
+```You``` Hi Rinni, pleasant to meet you.  
+```Rinni.smiling``` Well, this is a rather exquisite auction here. You must be an important person.  
+```You``` Yeah, I guess so. I've known the host for many years now.  
+```Rinni.shocked``` Oh is that so? Well, I just touched down from Paris.  
+```Rinni.smiling``` I believe the other bidders are also from various countries.   
+```Tatsumi.smiling``` *interupts* Welcome everyone! Come inside! Our other guests just arrived before you two, make yourselves comfortable. You can unpack in your rooms upstairs.  
+```Tatsumi.happy``` Our private auction shall begin in an hour!  
 
 ### Background 4: Inside Mansion
 : jazz music plays :  
