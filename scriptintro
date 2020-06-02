@@ -5,25 +5,35 @@ Available character emotions:
 • Yuna (angry, sad, shocked, smiling)
 
 
-PLEASE FOLLOW FORMATTING BELOW
+-- Please follow the formatting below --
 
-<< Canvas: "You are a disguised detective in this game. Please do not skip through the following scenes." >>
+<< Canvas: "You are a disguised detective in this game. Please do not skip through the following scenes, some information might be important." >>
 
-<< Background 1: Mansion >>
+<< Background 1: Outside Mansion >>
 Player - Wow, Tatsumi's home sure is big!
-Player - There's an auction happening today, those cars must belong to the bidders.
+Player - There's an auction happening today, those cars must belong to other bidders.
 
 << Background 2: Flashback to Detective's Home >>
 
 
-<< Background 3: Mansion >>
+<< Background 3: Outside Mansion >>
 Rinni.smiling - Hi, I'm guessing you're here for the auction too. I'm Rinni, nice knowing you.
 Player - Hi Rinni, pleasant to meet you.
 Rinni.smiling - Well, this is a rather exquisite auction here. You must be an important person.
 Player - Yeah, I guess so. I've known the host for many years now.
-Rinni.shocked - Oh I
+Rinni.shocked - Oh is that so? Well, I just flew from Paris. I believe all the other bidders are also from various countries.
+Tatsumi - Welcome! Come inside! 
+
+<< Background 4: Inside Mansion >>
 
 
+<< Background 5: Auction Starts >>
+
+
+<< Background 6: Blackout >>
+
+
+<< Background 7: Auction Disrupted >>
 
 
 
