@@ -26,7 +26,7 @@ Supplementary characters: ```You```, ```emptytextobject```
 ```Tatsumi.smiling``` Hey, old friend!  
 ```You``` Hi Tatsumi! Wow I have not heard from you for such a long time!  
 ```Tatsumi.sad``` Yeah, I guess so. I have been so busy with my project.  
-```Tatsumi.happy``` Speaking of the project, I have completed it!  
+```Tatsumi.happy``` Speaking of the project, I have just completed it!  
 ```Tatsumi.smiling``` I will auctioning it at my house this Saturday. Will you be available then?  
 ```You``` Congratulations! Why do you need me there though?  
 ```Tatsumi.neutral``` Listen ... The bidders I've invited are influential people.  
