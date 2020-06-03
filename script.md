@@ -50,7 +50,6 @@ Supplementary characters: ```You```, ```emptytextobject```
 ```Tatsumi.smiling``` Our other guests have just arrived too, make yourselves comfortable.  
 
 ### Background 4: Inside Mansion
-: jazz music plays :  
 ```Tatsumi.smiling``` Over here, we have Masao from Toronto and Yuna from Sydney. // Country  
 ```Masao.smiling```  Hey!  
 ```Yuna.smiling```  Hello. It's been a long flight huh? You guys look exhausted.  
@@ -60,10 +59,9 @@ Supplementary characters: ```You```, ```emptytextobject```
 ```Tatsumi.happy``` Our auction will begin in an hour!  
 
 ### Background 5: Auction Starts
-
+```Tatsumi.smiling``` Thanks everyone for coming all the way for today's auction.
 
 ### Background 6: Blackout
-: electricity box sound :  
 
 
 ### Background 7: Auction Disrupted
