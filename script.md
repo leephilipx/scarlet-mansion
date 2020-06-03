@@ -53,7 +53,7 @@ Supplementary characters: ```You```, ```emptytextobject```
 ```Masao.smiling```  Hey!  
 ```Yuna.smiling```  Hello. It's been a long flight huh? You guys look exhausted.  
 ```Rinni.smiling``` Yeah, I just landed at the helipad nearby. // Emphasizes that Rinni is rich  
-```You``` I'm from Los Angeles, nice to meet you guys.
+```You``` I'm from Los Angeles, nice to meet you guys.  
 ```Tatsumi.smiling``` You two can unpack upstairs and freshen up.  
 ```Tatsumi.happy``` Our auction will begin in an hour!  
 
@@ -75,7 +75,7 @@ Supplementary characters: ```You```, ```emptytextobject```
 ```Masao.annoyed``` I think I'll head back to my room first!  
 ```Yuna.angry``` Me too!  
 ```Rinni.angry``` Well, there's nothing else to do now.  
-```Rinni.smiling``` I'll just look around.
+```Rinni.smiling``` I'll just look around.  
 
 ### Canvas - Instructions
 - Try to finish the game within 30 minutes
