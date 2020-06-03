@@ -22,24 +22,37 @@ Supplementary characters: ```You```, ```emptytextobject```
 ### Background 2: Flashback to Detective's Home
 ```emptytextobject``` Phone rings ...  Call from Tatsumi  
 ```Tatsumi.smiling``` Hey, old friend!  
-```You``` Hi Tatsumi!  
+```You``` Hi Tatsumi! Wow I have not heard from you for such a long time!  
+```Tatsumi.sad``` Yeah, I guess so. I have been so busy with my project.  
+```Tatsumi.happy``` Speaking of the project, I have completed it!  
+```Tatsumi.smiling``` I will auctioning it at my house this Saturday. Are you available then?  
+```You``` Congratulations! Why do you need me there though?  
+```Tatsumi.neutral``` Listen ... The bidders I've invited are powerful people. I need you there in case something unexpected happens.  
+```You``` Alright, I understand. I'll go undercover at your event.  
+```Tatsumi.neutral``` Great! I'll send you the details through my secure portal.  
+```Tatsumi.happy``` Thanks a lot pal!  
+```You``` You're welcome. Always there to help an old friend out...  
 
-### Background 3: Outside Mansion 
+### Background 3: Outside Mansion
+```emptytextobject``` A lady steps out from a car as you walk up to the front door.
 ```Rinni.smiling``` Hi, I'm guessing you're here for the auction too. I'm Rinni, nice knowing you.  
 ```You``` Hi Rinni, pleasant to meet you.  
 ```Rinni.smiling``` Well, this is a rather exquisite auction here. You must be an important person.  
 ```You``` Yeah, I guess so. I've known the host for many years now.  
 ```Rinni.shocked``` Oh is that so? Well, I just touched down from Paris.  
 ```Rinni.smiling``` I believe the other bidders are also from various countries.  
-```Rinni.smiling``` Hmm, I wonder what professions are they from such that they want the item.  
+```Rinni.smiling``` Hmm, I wonder what professions they are from. Tatsumi's item has such niche uses.  
+```emptytextobject``` The front door opens  
 ```Tatsumi.smiling``` * interrupts * Welcome everyone! Come inside!  
-```Tatsumi.smiling``` Our other guests have just arrived too, make yourselves comfortable. You can unpack in your rooms upstairs.  
+```Tatsumi.smiling``` Our other guests have just arrived too, make yourselves comfortable. 
 
 
 ### Background 4: Inside Mansion
 : jazz music plays :  
+```Tatsumi.smiling``` Over here, we have Masao from Canada and Yuna from Australia.
 ...
-```Tatsumi.happy``` Our private auction shall begin in an hour!  
+```Tatsumi.smiling``` You can unpack upstairs.  
+```Tatsumi.happy``` Our private auction will begin in an hour!  
 
 
 ### Background 5: Auction Starts
