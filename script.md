@@ -51,7 +51,11 @@ Supplementary characters: ```You```, ```emptytextobject```
 ```Masao.annoyed``` Gosh, surely the culprit won't reveal himself/herself. I think I will head back to my room while waiting!  
 ```Yuna.angry``` Me too!  
 
-*Display Canvas Instructions 1*
+### Canvas - Instructions
+- Try to finish the game within 30 minutes
+- Press [P] to Pause
+- Press [T] to bring up your inventory
+- Press [E] to interact with special items
 
 ---
 
