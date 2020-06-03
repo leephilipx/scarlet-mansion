@@ -74,7 +74,7 @@ Supplementary characters: ```You```, ```emptytextobject```
 ```Masao.annoyed``` It's gonna take forever to find the culprit.  
 ```Masao.annoyed``` I think I'll head back to my room first!  
 ```Yuna.angry``` Me too!  
-```Rinni.angry``` Well, there's nothing else to do now.
+```Rinni.angry``` Well, there's nothing else to do now.  
 ```Rinni.smiling``` I'll just look around.
 
 ### Canvas - Instructions
