@@ -45,7 +45,7 @@ Supplementary characters: ```You```, ```emptytextobject```
 ```Rinni.shocked``` Oh is that so? Well, I just touched down from Paris. // Country  
 ```Rinni.smiling``` I believe the other bidders are also from various countries.  
 ```emptytextobject``` The front door opens.  
-```Tatsumi.smiling``` * interrupts * Welcome everyone! Come inside!  
+```Tatsumi.happy``` * interrupts * Welcome everyone! Come inside!  
 ```Tatsumi.smiling``` Our other guests have just arrived too, make yourselves comfortable.  
 
 ### Background 4: Inside Mansion
