@@ -30,7 +30,7 @@ Supplementary characters: ```You```, ```emptytextobject```
 ```Rinni.smiling``` Well, this is a rather exquisite auction here. You must be an important person.  
 ```You``` Yeah, I guess so. I've known the host for many years now.  
 ```Rinni.shocked``` Oh is that so? Well, I just touched down from Paris.  
-```Rinni.smiling``` I believe the other bidders are also from various countries. Hmm, I wonder what professions are they from such that they want the item. *Highlights that the characters should not know each others' occupations*  
+```Rinni.smiling``` I believe the other bidders are also from various countries. Hmm, I wonder what professions are they from such that they want the item.
 ```Tatsumi.smiling``` *interrupts* Welcome everyone! Come inside! Our other guests just arrived before you two, make yourselves comfortable. You can unpack in your rooms upstairs.  
 ```Tatsumi.happy``` Our private auction shall begin in an hour!  
 
@@ -48,7 +48,7 @@ Supplementary characters: ```You```, ```emptytextobject```
 ### Background 7: Auction Disrupted
 ```Tatsumi.shocked``` The safe ... its open! The item is gone!  
 ```Tatsumi.angry``` Who stole it?! I've locked this house down for emergencies like this! You will not escape!  
-```Masao.annoyed``` Gosh, surely the culprit won't reveal himself/herself. I think I will head back to my room while waiting!  
+```Masao.annoyed``` Gosh, surely the culprit won't reveal himself/herself. I think I will head back to my room first!  
 ```Yuna.angry``` Me too!  
 
 ### Canvas - Instructions
