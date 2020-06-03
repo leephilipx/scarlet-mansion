@@ -22,7 +22,7 @@ Supplementary characters: ```You```, ```emptytextobject```
 ```You``` There's an auction happening today, those cars must belong to other bidders.  
 
 ### Background 2: Flashback to Detective's Home
-```emptytextobject``` Phone rings ...  Call from Tatsumi  
+```emptytextobject``` Ring ring ... (Call from Tatsumi)  
 ```Tatsumi.smiling``` Hey, old friend!  
 ```You``` Hi Tatsumi! Wow I have not heard from you for such a long time!  
 ```Tatsumi.sad``` Yeah, I guess so. I have been so busy with my project.  
@@ -42,21 +42,22 @@ Supplementary characters: ```You```, ```emptytextobject```
 ```You``` Hi Rinni, pleasant to meet you.  
 ```Rinni.smiling``` Well, this is a rather exquisite auction here. You must be an important person.  
 ```You``` Yeah, I guess so. I've known the host for many years now.  
-```Rinni.shocked``` Oh is that so? Well, I just touched down from Paris.  
+```Rinni.shocked``` Oh is that so? Well, I just touched down from Paris. // Country  
 ```Rinni.smiling``` I believe the other bidders are also from various countries.  
-```Rinni.smiling``` Hmm, I wonder what professions they are from. Tatsumi's item has such niche uses.  
+```Rinni.smiling``` Hmm, I wonder what professions they are from. Tatsumi's item has such niche uses. // Emphasizes that they do not know each other's occupations  
 ```emptytextobject``` The front door opens.  
 ```Tatsumi.smiling``` * interrupts * Welcome everyone! Come inside!  
 ```Tatsumi.smiling``` Our other guests have just arrived too, make yourselves comfortable.  
 
-
 ### Background 4: Inside Mansion
 : jazz music plays :  
-```Tatsumi.smiling``` Over here, we have Masao from Toronto and Yuna from Sydney.  
-...  
-```Tatsumi.smiling``` You can unpack upstairs.  
-```Tatsumi.happy``` Our private auction will begin in an hour!  
-
+```Tatsumi.smiling``` Over here, we have Masao from Toronto and Yuna from Sydney. // Country  
+```Masao.smiling```  Hey!  
+```Yuna.smiling```  Hello. It's been a long flight huh? You guys look exhausted.  
+```Rinni.smiling``` Yeah, I just landed at the helipad nearby. // Emphasizes that Rinni is rich  
+```You``` I'm from Los Angeles, nice to meet you guys.
+```Tatsumi.smiling``` You two can unpack upstairs and freshen up.  
+```Tatsumi.happy``` Our auction will begin in an hour!  
 
 ### Background 5: Auction Starts
 
@@ -68,7 +69,8 @@ Supplementary characters: ```You```, ```emptytextobject```
 ### Background 7: Auction Disrupted
 ```Tatsumi.shocked``` The safe ... its open! The item is gone!  
 ```Tatsumi.angry``` Who stole it?! I've locked this house down for emergencies like this! You will not escape!  
-```Masao.annoyed``` Gosh, surely the culprit won't reveal himself/herself. I think I will head back to my room first!  
+```Masao.annoyed``` It's gonna take forever to find the culprit.  
+```Masao.annoyed``` I think I'll head back to my room first!  
 ```Yuna.angry``` Me too!  
 
 ### Canvas - Instructions
