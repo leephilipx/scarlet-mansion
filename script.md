@@ -12,9 +12,9 @@ Supplementary characters: ```You```, ```emptytextobject```
 
 ## Introduction Script
 
-*Display Canvas Information: "You are a detective in this game. Keep your eyes peeled for important clues!"*
-![Canvas Information](https://octodex.github.com/images/yaktocat.png)
+![Canvas Information](https://github.com/leephilipx/visualnovel/blob/master/informationCanvas.png)
 
+*Display Canvas Information: "You are a detective in this game. Keep your eyes peeled for important clues!"*
 > Note: Double space at the end of a line for line break
 
 ### Background 1: Outside Mansion
