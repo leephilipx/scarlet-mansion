@@ -13,6 +13,8 @@ Supplementary characters: ```You```, ```emptytextobject```
 ## Introduction Script
 
 *Display Canvas Information: "You are a detective in this game. Keep your eyes peeled for important clues!"*
+![Canvas Information](https://octodex.github.com/images/yaktocat.png)
+
 > Note: Double space at the end of a line for line break
 
 ### Background 1: Outside Mansion
@@ -25,13 +27,14 @@ Supplementary characters: ```You```, ```emptytextobject```
 ```You``` Hi Tatsumi! Wow I have not heard from you for such a long time!  
 ```Tatsumi.sad``` Yeah, I guess so. I have been so busy with my project.  
 ```Tatsumi.happy``` Speaking of the project, I have completed it!  
-```Tatsumi.smiling``` I will auctioning it at my house this Saturday. Are you available then?  
+```Tatsumi.smiling``` I will auctioning it at my house this Saturday. Will you be available then?  
 ```You``` Congratulations! Why do you need me there though?  
-```Tatsumi.neutral``` Listen ... The bidders I've invited are powerful people. I need you there in case something unexpected happens.  
+```Tatsumi.neutral``` Listen ... The bidders I've invited are powerful people.  
+```Tatsumi.neutral``` I need you there in case something unexpected happens.  
 ```You``` Alright, I understand. I'll go undercover at your event.  
 ```Tatsumi.neutral``` Great! I'll send you the details through my secure portal.  
 ```Tatsumi.happy``` Thanks a lot pal!  
-```You``` You're welcome. Always there to help an old friend out...  
+```You``` You're welcome. Always glad to help an old friend out...  
 
 ### Background 3: Outside Mansion
 ```emptytextobject``` A lady steps out from a car as you walk up to the front door.
@@ -42,7 +45,7 @@ Supplementary characters: ```You```, ```emptytextobject```
 ```Rinni.shocked``` Oh is that so? Well, I just touched down from Paris.  
 ```Rinni.smiling``` I believe the other bidders are also from various countries.  
 ```Rinni.smiling``` Hmm, I wonder what professions they are from. Tatsumi's item has such niche uses.  
-```emptytextobject``` The front door opens  
+```emptytextobject``` The front door opens.  
 ```Tatsumi.smiling``` * interrupts * Welcome everyone! Come inside!  
 ```Tatsumi.smiling``` Our other guests have just arrived too, make yourselves comfortable. 
 
