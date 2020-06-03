@@ -37,7 +37,7 @@ Supplementary characters: ```You```, ```emptytextobject```
 ```You``` You're welcome. Always glad to help an old friend out...  
 
 ### Background 3: Outside Mansion
-```emptytextobject``` A lady steps out from a car as you walk up to the front door.
+```emptytextobject``` A lady steps out from a car as you walk up to the front door.  
 ```Rinni.smiling``` Hi, I'm guessing you're here for the auction too. I'm Rinni, nice knowing you.  
 ```You``` Hi Rinni, pleasant to meet you.  
 ```Rinni.smiling``` Well, this is a rather exquisite auction here. You must be an important person.  
@@ -47,13 +47,13 @@ Supplementary characters: ```You```, ```emptytextobject```
 ```Rinni.smiling``` Hmm, I wonder what professions they are from. Tatsumi's item has such niche uses.  
 ```emptytextobject``` The front door opens.  
 ```Tatsumi.smiling``` * interrupts * Welcome everyone! Come inside!  
-```Tatsumi.smiling``` Our other guests have just arrived too, make yourselves comfortable. 
+```Tatsumi.smiling``` Our other guests have just arrived too, make yourselves comfortable.  
 
 
 ### Background 4: Inside Mansion
 : jazz music plays :  
-```Tatsumi.smiling``` Over here, we have Masao from Canada and Yuna from Australia.
-...
+```Tatsumi.smiling``` Over here, we have Masao from Canada and Yuna from Australia.  
+...  
 ```Tatsumi.smiling``` You can unpack upstairs.  
 ```Tatsumi.happy``` Our private auction will begin in an hour!  
 
