@@ -62,7 +62,7 @@ Supplementary characters: ```You```, ```emptytextobject```
 ```Tatsumi.happy``` I hope you guys will make good use of my invention!  
 ```Tatsumi.neutral``` Now to begin ... {wait = 3s} Yes, Yuna?  
 ```Yuna.smiling``` 100k!  
-```Rinni.smiling``` Make that double, 200k!  
+```Rinni.smiling``` Make that double!  
 ```Masao.smilling``` ...  
 
 ### Background 6: Blackout
