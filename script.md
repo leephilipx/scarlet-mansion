@@ -29,12 +29,12 @@ Supplementary characters: ```You```, ```emptytextobject```
 ```Tatsumi.happy``` Speaking of the project, I have completed it!  
 ```Tatsumi.smiling``` I will auctioning it at my house this Saturday. Will you be available then?  
 ```You``` Congratulations! Why do you need me there though?  
-```Tatsumi.neutral``` Listen ... The bidders I've invited are powerful people.  
+```Tatsumi.neutral``` Listen ... The bidders I've invited are influential people.  
 ```Tatsumi.neutral``` I need you there in case something unexpected happens.  
 ```You``` Alright, I understand. I'll go undercover at your event.  
 ```Tatsumi.neutral``` Great! I'll send you the details through my secure portal.  
 ```Tatsumi.happy``` Thanks a lot pal!  
-```You``` You're welcome. Always glad to help an old friend out...  
+```You``` You're welcome. Always glad to help an old friend out ...  
 
 ### Background 3: Outside Mansion
 ```emptytextobject``` A lady steps out from a car as you walk up to the front door.  
@@ -52,7 +52,7 @@ Supplementary characters: ```You```, ```emptytextobject```
 
 ### Background 4: Inside Mansion
 : jazz music plays :  
-```Tatsumi.smiling``` Over here, we have Masao from Canada and Yuna from Australia.  
+```Tatsumi.smiling``` Over here, we have Masao from Toronto and Yuna from Sydney.  
 ...  
 ```Tatsumi.smiling``` You can unpack upstairs.  
 ```Tatsumi.happy``` Our private auction will begin in an hour!  
