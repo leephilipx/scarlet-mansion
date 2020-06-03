@@ -30,12 +30,16 @@ Supplementary characters: ```You```, ```emptytextobject```
 ```Rinni.smiling``` Well, this is a rather exquisite auction here. You must be an important person.  
 ```You``` Yeah, I guess so. I've known the host for many years now.  
 ```Rinni.shocked``` Oh is that so? Well, I just touched down from Paris.  
-```Rinni.smiling``` I believe the other bidders are also from various countries. Hmm, I wonder what professions are they from such that they want the item.
-```Tatsumi.smiling``` *interrupts* Welcome everyone! Come inside! Our other guests just arrived before you two, make yourselves comfortable. You can unpack in your rooms upstairs.  
-```Tatsumi.happy``` Our private auction shall begin in an hour!  
+```Rinni.smiling``` I believe the other bidders are also from various countries.  
+```Rinni.smiling``` Hmm, I wonder what professions are they from such that they want the item.  
+```Tatsumi.smiling``` * interrupts * Welcome everyone! Come inside!  
+```Tatsumi.smiling``` Our other guests have just arrived too, make yourselves comfortable. You can unpack in your rooms upstairs.  
+
 
 ### Background 4: Inside Mansion
 : jazz music plays :  
+...
+```Tatsumi.happy``` Our private auction shall begin in an hour!  
 
 
 ### Background 5: Auction Starts
