@@ -44,7 +44,6 @@ Supplementary characters: ```You```, ```emptytextobject```
 ```You``` Yeah, I guess so. I've known the host for many years now.  
 ```Rinni.shocked``` Oh is that so? Well, I just touched down from Paris. // Country  
 ```Rinni.smiling``` I believe the other bidders are also from various countries.  
-```Rinni.smiling``` Hmm, I wonder what professions they are from. Tatsumi's item has such niche uses. // Emphasizes that they do not know each other's occupations  
 ```emptytextobject``` The front door opens.  
 ```Tatsumi.smiling``` * interrupts * Welcome everyone! Come inside!  
 ```Tatsumi.smiling``` Our other guests have just arrived too, make yourselves comfortable.  
@@ -59,23 +58,31 @@ Supplementary characters: ```You```, ```emptytextobject```
 ```Tatsumi.happy``` Our auction will begin in an hour!  
 
 ### Background 5: Auction Starts
-```Tatsumi.smiling``` Thanks everyone for coming all the way for today's auction.
+```Tatsumi.smiling``` Thanks everyone for coming all the way for today's auction.  
+```Tatsumi.happy``` I hope you guys will make good use of my invention!  
+```Tatsumi.neutral``` Now to begin ... {wait = 3s} Yes, Yuna?  
+```Yuna.smiling``` 100k!  
+```Rinni.smiling``` Make that double, 200k!  
+```Masao.smilling``` ...  
 
 ### Background 6: Blackout
-
+```Tatsumi.shocked``` Oh! What happened to the lights?! // Edit this if you have smth better  
 
 ### Background 7: Auction Disrupted
-```Tatsumi.shocked``` The safe ... its open! The item is gone!  
+```Tatsumi.shocked``` The safe ... its open! My invention is gone!  
 ```Tatsumi.angry``` Who stole it?! I've locked this house down for emergencies like this! You will not escape!  
 ```Masao.annoyed``` It's gonna take forever to find the culprit.  
 ```Masao.annoyed``` I think I'll head back to my room first!  
 ```Yuna.angry``` Me too!  
+```Rinni.angry``` Well, there's nothing else to do now.
+```Rinni.smiling``` I'll just look around.
 
 ### Canvas - Instructions
 - Try to finish the game within 30 minutes
+- WASD to move around
 - Press [P] to Pause
-- Press [T] to bring up your inventory
-- Press [E] to interact with special items
+- Press [Q] to bring up your inventory
+- Press [E] to interact with objects (magnifying glass will be shown)
 
 ---
 
