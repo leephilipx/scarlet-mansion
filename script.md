@@ -73,7 +73,7 @@ Supplementary characters: ```You```, ```emptytextobject```
 
 ### Background 7: Auction Disrupted
 ```Tatsumi.shocked``` The safe ... its open! My invention is gone!  
-```Tatsumi.angry``` Who stole it?! I've locked this house down for emergencies like this!   
+```Tatsumi.angry``` Who stole it?! I've locked this house down for emergencies like this! We will find the culprit.    
 ```Masao.annoyed``` It's gonna take forever to find the culprit.  
 ```Masao.annoyed``` I think I'll head back to my room first!  
 ```Yuna.angry``` Me too!  
