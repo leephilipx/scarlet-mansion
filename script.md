@@ -23,31 +23,33 @@ Supplementary characters: ```You```, ```emptytextobject```
 ```You``` Hmm, they look wealthy ... I wonder what Tatsumi invented?
 
 ### Background 2: Flashback to Detective's Home
-```emptytextobject``` {audio=Phone Ringing}Ring ring ...{w=1} Call from Tatsumi  
-```Tatsumi.smiling``` Hey, old friend!  
-```You``` Hi Tatsumi! Wow I have not heard from you for such a long time!  
-```Tatsumi.sad``` Yeah, I guess so. I have been so busy with my project.  
+```emptytextobject``` {audio=Phone Ringing}Ring ring ...{w=0.8} Call from Tatsumi  
+```Tatsumi.smiling``` {audio=Phone Answer}Hey, old friend!  
+```You``` Hi Tatsumi!
+```You``` Wow I have not heard from you for so long!  
+```Tatsumi.sad``` Yeah, I guess so. I have been so busy with my project ...  
 ```Tatsumi.happy``` Speaking of the project, I have just completed it!  
-```Tatsumi.smiling``` I will auctioning it at my house this Saturday. Will you be available then?  
-```You``` Congratulations! Why do you need me there though?  
-```Tatsumi.neutral``` Listen ... The bidders I've invited are influential people.  
+```Tatsumi.smiling``` I will be auctioning it at my house this Saturday. Will you be available then?  
+```You``` Congratulations!{w=0.5} Why do you need me there though?  
+```Tatsumi.neutral``` Listen ...{w=0.5} The bidders I've invited are influential people.  
 ```Tatsumi.neutral``` I need you there in case something unexpected happens.  
 ```You``` Alright, I understand. I'll go undercover at your event.  
-```Tatsumi.neutral``` Great! I'll send you the details through my secure portal.  
+```Tatsumi.neutral``` Great! I'll send you the details through my secure platform.  
 ```Tatsumi.happy``` Thanks a lot pal!  
-```You``` You're welcome. Always glad to help an old friend out ...  
+```You``` You're welcome. Always glad to help an old friend out.  
 
 ### Background 3: Outside Mansion
-```emptytextobject``` A lady steps out from a car as you walk up to the front door.  
+```emptytextobject``` {audio=Car Door}A lady steps out from a car as you walk up to the front door.  
 ```Rinni.smiling``` Hi, I'm guessing you're here for the auction too. I'm Rinni, nice knowing you.  
 ```You``` Hi Rinni, pleasant to meet you.  
 ```Rinni.smiling``` Well, this is a rather exquisite auction here. You must be an important person.  
 ```You``` Yeah, I guess so. I've known the host for many years now.  
 ```Rinni.shocked``` Oh is that so? Well, I just touched down from Paris. // Country  
 ```Rinni.smiling``` I believe the other bidders are also from various countries.  
-```emptytextobject``` The front door opens.  
-```Tatsumi.happy``` * interrupts * Welcome everyone! Come inside!  
+```Tatsumi.happy``` {audio=Door Open}* interrupts *{w=1.5}  Welcome everyone! Please come in.  
 ```Tatsumi.smiling``` Our other guests have just arrived too, make yourselves comfortable.  
+
+#### << Timed: 1 min 30 s >>
 
 ### Background 4: Inside Mansion
 ```Tatsumi.smiling``` Over here, we have Masao from Toronto and Yuna from Sydney. // Country  
