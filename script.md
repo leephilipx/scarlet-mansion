@@ -20,7 +20,7 @@ Supplementary characters: ```You```, ```emptytextobject```
 ### Background 1: Outside Mansion
 ```You``` Wow, Tatsumi's home sure is big!  
 ```You``` There's an auction happening today, those cars must belong to other bidders.  
-```You``` Hmm, they look wealthy ... I wonder what Tatsumi's invention is ...
+```You``` Hmm, they look wealthy ... I wonder what Tatsumi invented?
 
 ### Background 2: Flashback to Detective's Home
 ```emptytextobject``` Ring ring ... (Call from Tatsumi)  
