@@ -17,8 +17,6 @@ Supplementary characters: ```You```, ```emptytextobject```
 ### Information
 {size=80}You are a {color=#ffff2d}detective{/color} in this game.{/size}{w=0.8}\n\n\n{i}{color=#fff2cf}Look out for {/color}{color=#ff4545}important{/color}{color=#fff2cf} clues!{/color}{/i}  
 
-![Information](https://github.com/leephilipx/visualnovel/blob/master/informationCanvas.png)
-
 ### Background 1: Outside Mansion
 ```You``` Wow, Tatsumi's home sure is big!  
 ```You``` There's an auction happening today, those cars must belong to other bidders.  
@@ -26,8 +24,6 @@ Supplementary characters: ```You```, ```emptytextobject```
 
 ### Flashback
 5 days ago ...{w=0.5}  
-
-![Flashback](https://github.com/leephilipx/visualnovel/blob/master/flashback.png)
 
 ### Background 2: Flashback to Detective's Home
 ```emptycanvas``` One day ago ...  
