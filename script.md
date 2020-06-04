@@ -68,7 +68,8 @@ Supplementary characters: ```You```, ```emptytextobject```
 ### Background 5: Auction Starts
 ```Tatsumi.smiling``` Thanks everyone for coming all the way for today's auction.  
 ```Tatsumi.happy``` I hope you guys will make good use of my invention!  
-```Tatsumi.neutral``` Now lets begin ...{w=2} Yes, Yuna?  
+```Tatsumi.neutral``` Now lets begin ...{w=1}  
+```Tatsumi.smiling``` Yes, Yuna?  
 ```Yuna.smiling``` 100k!  
 ```Rinni.smiling``` Make that double!  
 ```Masao.smilling``` ...  
