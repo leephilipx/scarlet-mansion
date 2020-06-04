@@ -23,7 +23,7 @@ Supplementary characters: ```You```, ```emptytextobject```
 ```You``` Hmm, they look wealthy ... I wonder what Tatsumi invented?
 
 ### Background 2: Flashback to Detective's Home
-```emptytextobject``` Ring ring ... (Call from Tatsumi)  
+```emptytextobject``` {audio=Phone Ringing}Ring ring ...{w=1} Call from Tatsumi  
 ```Tatsumi.smiling``` Hey, old friend!  
 ```You``` Hi Tatsumi! Wow I have not heard from you for such a long time!  
 ```Tatsumi.sad``` Yeah, I guess so. I have been so busy with my project.  
@@ -61,7 +61,7 @@ Supplementary characters: ```You```, ```emptytextobject```
 ### Background 5: Auction Starts
 ```Tatsumi.smiling``` Thanks everyone for coming all the way for today's auction.  
 ```Tatsumi.happy``` I hope you guys will make good use of my invention!  
-```Tatsumi.neutral``` Now to begin ... {wait = 3s} Yes, Yuna?  
+```Tatsumi.neutral``` Now to begin ...{w=3} Yes, Yuna?  
 ```Yuna.smiling``` 100k!  
 ```Rinni.smiling``` Make that double!  
 ```Masao.smilling``` ...  
