@@ -23,6 +23,7 @@ Supplementary characters: ```You```, ```emptytextobject```
 ```You``` Hmm, they look wealthy ... I wonder who Tatsumi invented?
 
 ### Background 2: Flashback to Detective's Home
+```emptycanvas``` One day ago ...  
 ```emptytextobject``` {audio=Phone Ringing}Ring ring ...{w=0.8} Call from Tatsumi  
 ```Tatsumi.smiling``` {audio=Phone Answer}Hey, old friend!  
 ```You``` Yo Tatsumi!  
