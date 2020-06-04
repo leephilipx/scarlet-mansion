@@ -25,7 +25,7 @@ Supplementary characters: ```You```, ```emptytextobject```
 ### Background 2: Flashback to Detective's Home
 ```emptytextobject``` {audio=Phone Ringing}Ring ring ...{w=0.8} Call from Tatsumi  
 ```Tatsumi.smiling``` {audio=Phone Answer}Hey, old friend!  
-```You``` Yo Tatsumi!
+```You``` Yo Tatsumi!  
 ```You``` Its been a while, how are you doing?  
 ```Tatsumi.sad``` Yeah, I guess so. I have been so busy with my project ...  
 ```Tatsumi.happy``` Speaking of the project, I have just completed it!  
