@@ -20,13 +20,12 @@ Supplementary characters: ```You```, ```emptytextobject```
 ### Background 1: Outside Mansion
 ```You``` Wow, Tatsumi's home sure is big!  
 ```You``` There's an auction happening today, those cars must belong to other bidders.  
-```You``` Hmm, they look wealthy ... I wonder who Tatsumi invented?
+```You``` Hmm, they look wealthy ... I wonder what Tatsumi invented?
 
 ### Flashback
 5 days ago ...{w=0.5}  
 
-### Background 2: Flashback to Detective's Home
-```emptycanvas``` One day ago ...  
+### Background 2: Flashback to Detective's Home 
 ```emptytextobject``` {audio=Phone Ringing}Ring ring ...{w=0.8} (Call from Tatsumi){w=1.8}  
 ```Tatsumi.smiling``` {audio=Phone Answer}{w=0.5}Hey, old friend!
 ```You``` Yo Tatsumi!  
