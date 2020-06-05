@@ -1,7 +1,7 @@
 ## Available character emotions:
 | Character | Emotions |
 | :-------- | :------- |
-| ```Masao``` | ```annoyed```, ```happy```, ```sad```, ```shocked```, ```smiling``` |
+| ```Masao``` | ```angry```, ```neutral```, ```sad```, ```shocked```, ```smiling``` |
 | ```Rinni``` | ```angry```, ```happy```, ```sad```, ```shocked```, ```smiling``` |
 | ```Tatsumi``` | ```angry```, ```happy```, ```neutral```, ```sad```, ```shocked```, ```smiling``` |
 | ```Yuna``` | ```angry```, ```sad```, ```shocked```, ```smiling``` |
@@ -69,7 +69,7 @@ Supplementary characters: ```You```, ```emptytextobject```
 ```Tatsumi.smiling``` Yes, Yuna?  
 ```Yuna.smiling``` 100k!  
 ```Rinni.smiling``` Make that double!  
-```Masao.smilling``` ...  
+```Masao.neutral``` ...  
 
 ### Background 6: Blackout
 ```Tatsumi.shocked``` Oh! Whats going on?!  
@@ -78,8 +78,8 @@ Supplementary characters: ```You```, ```emptytextobject```
 ### Background 7: Auction Disrupted
 ```Tatsumi.shocked``` The safe ... its open!{w=0.5} My invention is gone!  
 ```Tatsumi.angry``` Who stole it?!{w=1} I've locked this house down for emergencies like this!  
-```Masao.annoyed``` It's gonna take forever to find the culprit.  
-```Masao.annoyed``` I think I'll head back to my room first!  
+```Masao.angry``` It's gonna take forever to find the culprit.  
+```Masao.angry``` I think I'll head back to my room first!  
 ```Yuna.angry``` Me too!  
 ```Rinni.angry``` Well, there's nothing else to do now.  
 ```Rinni.angry``` I'll just look around ... This place is huge.  
