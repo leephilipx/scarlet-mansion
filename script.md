@@ -29,7 +29,7 @@ Supplementary characters: ```You```, ```emptytextobject```
 ```emptytextobject``` {audio=Phone Ringing}Ring ring ...{w=0.8} (Call from Tatsumi){w=1.8}  
 ```Tatsumi.smiling``` {audio=Phone Answer}{w=0.5}Hey, old friend!  
 ```You``` Yo Tatsumi!  
-```You``` Its been a while, how are you doing?  
+```You``` It's been a while, how are you doing?  
 ```Tatsumi.sad``` Yeah, I guess so. I have been so busy with my project ...  
 ```Tatsumi.happy``` Speaking of the project, I have just completed it!  
 ```Tatsumi.smiling``` I will be auctioning it at my house this Saturday. Will you be available then?  
