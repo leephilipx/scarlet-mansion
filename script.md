@@ -89,7 +89,7 @@ Supplementary characters: ```You```, ```emptytextobject```
 - Press [P] to Pause
 - Press [Q] to bring up your inventory
 - Press [E] to interact with objects (magnifying glass will be shown)
-
+- Press [E] to interact with characters when their nametag turn yellow
 ---
 
 ## Thank you guys 😊
