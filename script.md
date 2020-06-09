@@ -112,7 +112,7 @@ Additional charater: ```Cop```
 ```Yuna.shocked``` Who me???  
 ```Yuna.angry``` I want to know what proof you have against me.   
 ```Cop``` You have the right to remain silence. My fellow detective here will let you know all the evidence in court.  
-```You``` **Nods**   
+```You``` * Nods *   
 
 (put the fade in and out animation in between?)   
 ### Background 3: Outside with cop car (ending-background-2)   
@@ -129,11 +129,11 @@ Additional charater: ```Cop```
 ```Yuna.angry``` Hi yahhhh. (Glass breaking sound or door breaking sound?)   
 ```Cop``` What was that sound?  
 ```Yuna.sad``` My plan to transport everyone to my new program was foiled.     
-```Yuna.smiling``` **Grabs Red stone from Tatsumi** But I can still transport 2 people.     
+```Yuna.smiling``` * Grabs Red stone from Tatsumi * But I can still transport 2 people.     
 ```Yuna.smiling``` Oh detective you are coming with me.  
 
 (Screen slowly become white then fade to black)  
-### Background 3: (ehhh something like the "you are a detctive scene")  
+### Background 4: (ehhh something like the "you are a detctive scene")  
 - (To be continued in the minecraft world...)  
 
 
