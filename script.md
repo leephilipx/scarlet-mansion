@@ -7,7 +7,7 @@
 | ```Yuna``` | ```angry```, ```sad```, ```shocked```, ```smiling``` |
 
 Supplementary characters: ```You```, ```emptytextobject```
-Additional charater: ```Cop``` , ```Red Stone```
+| Additional charater: ```Detective``` , ```Red Stone``` |
 ---
 
 ## Introduction Script
@@ -109,21 +109,21 @@ Additional charater: ```Cop``` , ```Red Stone```
 
 ### Background 2: The inside of the house image (Maybe a siren sound?)   
 ```Yuna.shocked``` Whats going on?    
-```Rinni.shocked``` Why are there cops outside the mansion?   
+```Rinni.shocked``` Why are there police outside the mansion?   
 ```Masao.neutral``` ... {w=0.5} Are they here to let us out?    
-```Tatsumi.sad``` We have called the cops. {w=0.5} We know who stole the invention.  
-```Cop``` Miss Yuna, You are under arrest. We have reason to believe you are resposible for the dissaperence of Sir Tatsumi invention.  
+```Tatsumi.sad``` We have called the police. {w=0.5} We know who stole the invention.  
+```Detective``` Miss Yuna, You are under arrest. We have reason to believe you are resposible for the dissaperence of Sir Tatsumi invention.  
 ```Yuna.shocked``` Who me???  
 ```Yuna.angry``` I want to know what proof you have against me.   
-```Cop``` You have the right to remain silent. My fellow detective here will let you know all the evidence found.  
+```Detective``` You have the right to remain silent. My fellow detective here will let you know all the evidence found.  
 ```You``` * Nods *   
 
 (put the fade in and out animation in between?)   
 ### Background 3: Outside with cop car (ending-background-2)   
-```Cop``` Miss Yuna please get inside the police car.    
+```Detective``` Miss Yuna please get inside the police car.    
 ```Yuna.angry``` Hmphhh.   
 (door shut sound?)  
-```Cop``` Sir Tatsumi we found your invention hidden in her room as we were searching it.     
+```Detective``` Sir Tatsumi we found your invention hidden in her room as we were searching it.     
 ```Tatsumi.happy``` Oh thank you!   
 ```You``` So what was your invention?   
 ```Tatsumi.neutral``` Oh I never did tell you did I?   
@@ -131,7 +131,7 @@ Additional charater: ```Cop``` , ```Red Stone```
 ```Tatsumi.shocked``` And I found out that this stone might have the power to transport people to the digital world.  
 ```Tatsumi.neutral``` I call this the Red Stone.   
 ```Yuna.angry``` Hi yahhhh. (Glass breaking sound or door breaking sound?)   
-```Cop``` What was that sound?  
+```Detective``` What was that sound?  
 ```Yuna.sad``` My plan to transport everyone to my new program was foiled.     
 ```Yuna.smiling``` * Grabs Red Stone from Tatsumi * But I can still transport 2 people.     
 ```Yuna.smiling``` Oh detective, you are coming with me.  
@@ -155,22 +155,22 @@ Additional charater: ```Cop``` , ```Red Stone```
 
 ### Background 2: The inside of the house image (Maybe a siren sound?)   
 ```Yuna.shocked``` Whats going on?    
-```Rinni.shocked``` Why are there cops outside the mansion?   
+```Rinni.shocked``` Why are there police outside the mansion?   
 ```Masao.neutral``` ... {w=0.5} Are they here to let us out?    
-```Tatsumi.sad``` We have called the cops. {w=0.5} We know who stole the invention.  
-```Cop``` Hello, we received a report saying that Sir Tatsumi Invention has been stolen... and that one of you has it...    
+```Tatsumi.sad``` We have called the police. {w=0.5} We know who stole the invention.  
+```Detective``` Hello, we received a report saying that Sir Tatsumi Invention has been stolen... and that one of you has it...    
 ```Rinni.shocked``` What do you mean detective?   
 ```Yuna.shocked``` Are you sure it didn't just decided to take a vacation?  
 ```Masao.neutral``` ...   
-```Cop``` My fellow detective here has looked at all the evidence.  
+```Detective``` My fellow detective here has looked at all the evidence.  
 ```You``` * Nods *  
-```Cop``` I am sure invention is with ...  
-```Yuna.smiling``` Do you mean this invention? The Red stone?    
+```Detective``` I am sure invention is with ...  
+```Yuna.smiling``` Do you mean this invention? The Red stone?     
 ```Rinni.shocked``` Whaaa  
-```Masao.shocked``` Huhhhh?
+```Masao.shocked``` Huhhhh?  
 ```Tatsumi.shocked``` The Red Stone.  
 ```Yuna.smiling``` Oh my, you all didn't suspect me at all. Tee-hee!  
-```Yuna.smiling``` I heard the Red Stone can transport people to the digital world.
+```Yuna.smiling``` I heard the Red Stone can transport people to the digital world.  
 ```Yuna.smiling``` Now I will use its power to transport the whole world!  
 ```Red Stone``` * Beep * Beginning transport in... 3... 2...  
 ```You``` * Jumps in front of the Red Stone *  
