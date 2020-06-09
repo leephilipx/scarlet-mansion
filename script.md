@@ -180,7 +180,7 @@ Supplementary characters: ```You```, ```emptytextobject```
 (maybe in between these 2 no need to make them click?)   
 (Screen slowly become white then fade to black)  
 
-### Background 4: (ehhh something like the "you are a detctive scene")  
+### Background 3: (ehhh something like the "you are a detctive scene")  
 - (To be continued in the minecraft world...)  
 
 ## Thank you guys 😊
