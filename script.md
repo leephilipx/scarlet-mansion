@@ -111,7 +111,7 @@ Additional charater: ```Cop```
 ```Cop``` Miss Yuna, You are under arrest. We have reason to believe you are resposible for the dissaperence of Sir Tatsumi invention.  
 ```Yuna.shocked``` Who me???  
 ```Yuna.angry``` I want to know what proof you have against me.   
-```Cop``` You have the right to remain silence. My fellow detective here will let you know all the evidence in court.  
+```Cop``` You have the right to remain silent. My fellow detective here will let you know all the evidence.  
 ```You``` * Nods *   
 
 (put the fade in and out animation in between?)   
