@@ -7,7 +7,7 @@
 | ```Yuna``` | ```angry```, ```sad```, ```shocked```, ```smiling``` |
 
 Supplementary characters: ```You```, ```emptytextobject```
-| Additional charater: ```Detective``` , ```Red Stone``` |
+| Additional charater: ```Detective 2``` , ```Red Stone``` |
 ---
 
 ## Introduction Script
@@ -103,7 +103,7 @@ Supplementary characters: ```You```, ```emptytextobject```
 ```Tatsumi.sad``` But why do you think she stole it?   
 ```You``` There is a high chance she was worried Rinni might out bid her.   
 ```Tatsumi.sad``` Yeah that could be why... {w=0.5} What do you think she wanted it for?   
-```You``` No clue, but lets call the police they should be able to recover your invention from Yuna.   
+```You``` No clue, but lets call the local police, they should be able to recover your invention from Yuna.   
 
 (put the fade in and out animation in between?)   
 
@@ -112,29 +112,29 @@ Supplementary characters: ```You```, ```emptytextobject```
 ```Rinni.shocked``` Why are there police outside the mansion?   
 ```Masao.neutral``` ... {w=0.5} Are they here to let us out?    
 ```Tatsumi.sad``` We have called the police. {w=0.5} We know who stole the invention.  
-```Detective``` Miss Yuna, You are under arrest. We have reason to believe you are resposible for the dissaperence of Sir Tatsumi invention.  
+```Detective 2``` Miss Yuna, You are under arrest. We have reason to believe you are resposible for the dissaperence of Sir Tatsumi invention.  
 ```Yuna.shocked``` Who me???  
 ```Yuna.angry``` I want to know what proof you have against me.   
-```Detective``` You have the right to remain silent. My fellow detective here will let you know all the evidence found.  
+```Detective 2``` You have the right to remain silent. My fellow detective here will let you know all the evidence found.  
 ```You``` * Nods *   
 
 (put the fade in and out animation in between?)   
 ### Background 3: Outside with cop car (ending-background-2)   
-```Detective``` Miss Yuna please get inside the police car.    
+```Detective 2``` Miss Yuna please get inside the police car.    
 ```Yuna.angry``` Hmphhh.   
 (door shut sound?)  
-```Detective``` Sir Tatsumi we found your invention hidden in her room as we were searching it.     
+```Detective 2``` Sir Tatsumi we found your invention hidden in her room as we were searching it.     
 ```Tatsumi.happy``` Oh thank you!   
 ```You``` So what was your invention?   
 ```Tatsumi.neutral``` Oh I never did tell you did I?   
-```Tatsumi.neutral``` I was experimenting the other day with this stone.     
+```Tatsumi.happy``` I was experimenting the other day with this stone.     
 ```Tatsumi.shocked``` And I found out that this stone might have the power to transport people to the digital world.  
-```Tatsumi.neutral``` I call this the Red Stone.   
-```Yuna.angry``` Hi yahhhh. (Glass breaking sound or door breaking sound?)   
-```Detective``` What was that sound?  
+```Tatsumi.smiling``` I call this the Red Stone.   
+```Yuna.angry``` Hi-yahhhh. (Glass breaking sound or door breaking sound?)   
+```Detective 2``` What was that sound?  
 ```Yuna.sad``` My plan to transport everyone to my new program was foiled.     
 ```Yuna.smiling``` * Grabs Red Stone from Tatsumi * But I can still transport 2 people.     
-```Yuna.smiling``` Oh detective, you are coming with me.  
+```Yuna.smiling``` Oh detective,{w=0.3} you are coming with me.  
 
 (maybe in between these 2 no need to make them click?)  
 (Screen slowly become white then fade to black)  
@@ -158,13 +158,13 @@ Supplementary characters: ```You```, ```emptytextobject```
 ```Rinni.shocked``` Why are there police outside the mansion?   
 ```Masao.neutral``` ... {w=0.5} Are they here to let us out?    
 ```Tatsumi.sad``` We have called the police. {w=0.5} We know who stole the invention.  
-```Detective``` Hello, we received a report saying that Sir Tatsumi Invention has been stolen... and that one of you has it...    
+```Detective 2``` Hello, we received a report saying that Sir Tatsumi Invention has been stolen...  {w=0.2}and that one of you has it...    
 ```Rinni.shocked``` What do you mean detective?   
 ```Yuna.shocked``` Are you sure it didn't just decided to take a vacation?  
 ```Masao.neutral``` ...   
-```Detective``` My fellow detective here has looked at all the evidence.  
+```Detective 2``` My fellow detective here has looked at all the evidence.  
 ```You``` * Nods *  
-```Detective``` I am sure invention is with ...  
+```Detective 2``` I am sure invention is with ...  
 ```Yuna.smiling``` Do you mean this invention? The Red stone?     
 ```Rinni.shocked``` Whaaa  
 ```Masao.shocked``` Huhhhh?  
