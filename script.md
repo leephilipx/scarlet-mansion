@@ -168,8 +168,8 @@ Supplementary characters: ```You```, ```emptytextobject```
 ```Yuna.smiling``` Do you mean this invention? The Red stone?     
 ```Rinni.shocked``` Whaaa  
 ```Masao.shocked``` Huhhhh?  
-```Tatsumi.shocked``` The Red Stone.  
-```Yuna.smiling``` Oh my, you all didn't suspect me at all. Tee-hee!  
+```Tatsumi.shocked``` The Red Stone!  
+```Yuna.smiling``` Oh my, you didn't suspect me at all. Tee-hee!  
 ```Yuna.smiling``` I heard the Red Stone can transport people to the digital world.  
 ```Yuna.smiling``` Now I will use its power to transport the whole world!  
 ```Red Stone``` * Beep * Beginning transport in... 3... 2...  
