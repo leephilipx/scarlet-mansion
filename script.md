@@ -7,7 +7,7 @@
 | ```Yuna``` | ```angry```, ```sad```, ```shocked```, ```smiling``` |
 
 Supplementary characters: ```You```, ```emptytextobject```
-
+Additional charater: ```Cop```
 ---
 
 ## Introduction Script
@@ -92,14 +92,55 @@ Supplementary characters: ```You```, ```emptytextobject```
 - Press [E] to interact with characters when their nametag turn yellow
 ---
 
-## Ending 1 - Yuna accused
+## Ending 1 - Yuna accused  
 
-### Background 1: description
+### Background 1: The inside of the house image (Fireplace one)  
+```Tatsumi.shocked``` You think the person who stole my invention is ...{w=0.5} Yuna?  
+```Tatsumi.sad``` But why do you think she stole it?   
+```You``` There is a high chance she was worried Rinni might out bid her.   
+```Tatsumi.sad``` Yeah that could be why... {w=0.5} What do you think she wanted it for?   
+```You``` No clue, but lets call the police they should be able to recover your invention from Yuna.   
+
+(put the fade in and out animation in between?)   
+
+### Background 2: The inside of the house image (Maybe a siren sound?)   
+```Yuna.shocked``` Whats going on?    
+```Rinni.shocked``` Why are there cops outside the mansion?   
+```Masao.neutral``` ... {w=0.5} Are they here to let us out?    
+```Tatsumi.sad``` We have called the cops. {w=0.5} We know who stole the invention.  
+```Cop``` Miss Yuna, You are under arrest. We have reason to believe you are resposible for the dissaperence of Sir Tatsumi invention.  
+```Yuna.shocked``` Who me???  
+```Yuna.angry``` I want to know what proof you have against me.   
+```Cop``` You have the right to remain silence. My fellow detective here will let you know all the evidence in court.  
+```You``` *Nods*   
+
+(put the fade in and out animation in between?)   
+### Background 3: Outside with cop car (ending-background-2)   
+```Cop``` Miss Yuna please get inside the police car.    
+```Yuna.angry``` Hmphhh.   
+(door shut sound?)  
+```Cop``` Sir Tatsumi we found your invention hidden in her room as we were searching it.     
+```Tatsumi.happy``` Oh thank you!   
+```You``` So what was your invention?   
+```Tatsumi.neutral``` Oh I never did tell you did I?   
+```Tatsumi.neutral``` I was experimenting the other day with this stone.     
+```Tatsumi.shocked``` And I found out that this stone might have the power to transport people to the digital world.  
+```Tatsumi.neutral``` I call this the red stone.   
+```Yuna.angry``` Hi yahhhh. (Glass breaking sound or door breaking sound?)   
+```Cop``` What was that sound?  
+```Yuna.sad``` My plan to transport everyone to my new program was foiled.     
+```Yuna.smiling``` *Grabs Red stone from Tatsumi* But I can still transport 2 people.     
+```Yuna.smiling``` Oh detective you are coming with me.  
+
+(Screen slowly become white then fade to black)  
+### Background 3: (ehhh something like the "you are a detctive scene")  
+- (To be continued in the minecraft world...)  
 
 
-## Ending 2 - Wrong ending
 
-### Background 1: description
+## Ending 2 - Wrong ending  
+
+### Background 1: description  
 
 
 ## Thank you guys 😊
