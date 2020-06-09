@@ -92,4 +92,14 @@ Supplementary characters: ```You```, ```emptytextobject```
 - Press [E] to interact with characters when their nametag turn yellow
 ---
 
+## Ending 1 - Yuna accused
+
+### Background 1: description
+
+
+## Ending 2 - Wrong ending
+
+### Background 1: description
+
+
 ## Thank you guys 😊
