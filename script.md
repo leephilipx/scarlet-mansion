@@ -130,7 +130,7 @@ Additional charater: ```Cop```
 ```Cop``` What was that sound?  
 ```Yuna.sad``` My plan to transport everyone to my new program was foiled.     
 ```Yuna.smiling``` * Grabs Red stone from Tatsumi * But I can still transport 2 people.     
-```Yuna.smiling``` Oh detective you are coming with me.  
+```Yuna.smiling``` Oh detective, you are coming with me.  
 
 (Screen slowly become white then fade to black)  
 ### Background 4: (ehhh something like the "you are a detctive scene")  
