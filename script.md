@@ -147,8 +147,8 @@ Supplementary characters: ```You```, ```emptytextobject```
 ## Ending 2 - Wrong ending  
 
 ### Background 1: The inside of the house image (Fireplace one)  
-```Tatsumi.shocked``` You think the person who stole my invention is ... ?{w=0.5}    
-```You``` Yes I belive so.   
+```Tatsumi.shocked``` You think the person who stole my invention is ... {w=0.5} (replace here)?      
+```You``` Yes I believe so.   
 ```Tatsumi.sad``` I see ok I will call the local police.    
 
 (put the fade in and out animation in between?)   
