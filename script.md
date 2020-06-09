@@ -7,7 +7,7 @@
 | ```Yuna``` | ```angry```, ```sad```, ```shocked```, ```smiling``` |
 
 Supplementary characters: ```You```, ```emptytextobject```
-Additional charater: ```Cop```
+Additional charater: ```Cop``` , ```Red Stone```
 ---
 
 ## Introduction Script
@@ -115,7 +115,7 @@ Additional charater: ```Cop```
 ```Cop``` Miss Yuna, You are under arrest. We have reason to believe you are resposible for the dissaperence of Sir Tatsumi invention.  
 ```Yuna.shocked``` Who me???  
 ```Yuna.angry``` I want to know what proof you have against me.   
-```Cop``` You have the right to remain silent. My fellow detective here will let you know all the evidence.  
+```Cop``` You have the right to remain silent. My fellow detective here will let you know all the evidence found.  
 ```You``` * Nods *   
 
 (put the fade in and out animation in between?)   
@@ -129,14 +129,16 @@ Additional charater: ```Cop```
 ```Tatsumi.neutral``` Oh I never did tell you did I?   
 ```Tatsumi.neutral``` I was experimenting the other day with this stone.     
 ```Tatsumi.shocked``` And I found out that this stone might have the power to transport people to the digital world.  
-```Tatsumi.neutral``` I call this the red stone.   
+```Tatsumi.neutral``` I call this the Red Stone.   
 ```Yuna.angry``` Hi yahhhh. (Glass breaking sound or door breaking sound?)   
 ```Cop``` What was that sound?  
 ```Yuna.sad``` My plan to transport everyone to my new program was foiled.     
-```Yuna.smiling``` * Grabs Red stone from Tatsumi * But I can still transport 2 people.     
+```Yuna.smiling``` * Grabs Red Stone from Tatsumi * But I can still transport 2 people.     
 ```Yuna.smiling``` Oh detective, you are coming with me.  
+
 (maybe in between these 2 no need to make them click?)  
 (Screen slowly become white then fade to black)  
+
 ### Background 4: (ehhh something like the "you are a detctive scene")  
 - (To be continued in the minecraft world...)  
 
@@ -144,7 +146,41 @@ Additional charater: ```Cop```
 
 ## Ending 2 - Wrong ending  
 
-### Background 1: description  
+### Background 1: The inside of the house image (Fireplace one)  
+```Tatsumi.shocked``` You think the person who stole my invention is ... ?{w=0.5}    
+```You``` Yes I belive so.   
+```Tatsumi.sad``` I see ok I will call the local police.    
 
+(put the fade in and out animation in between?)   
+
+### Background 2: The inside of the house image (Maybe a siren sound?)   
+```Yuna.shocked``` Whats going on?    
+```Rinni.shocked``` Why are there cops outside the mansion?   
+```Masao.neutral``` ... {w=0.5} Are they here to let us out?    
+```Tatsumi.sad``` We have called the cops. {w=0.5} We know who stole the invention.  
+```Cop``` Hello, we received a report saying that Sir Tatsumi Invention has been stolen... and that one of you has it...    
+```Rinni.shocked``` What do you mean detective?   
+```Yuna.shocked``` Are you sure it didn't just decided to take a vacation?  
+```Masao.neutral``` ...   
+```Cop``` My fellow detective here has looked at all the evidence.  
+```You``` * Nods *  
+```Cop``` I am sure invention is with ...  
+```Yuna.smiling``` Do you mean this invention? The Red stone?    
+```Rinni.shocked``` Whaaa  
+```Masao.shocked``` Huhhhh?
+```Tatsumi.shocked``` The Red Stone.  
+```Yuna.smiling``` Oh my, you all didn't suspect me at all. Tee-hee!  
+```Yuna.smiling``` I heard the Red Stone can transport people to the digital world.
+```Yuna.smiling``` Now I will use its power to transport the whole world!  
+```Red Stone``` * Beep * Beginning transport in... 3... 2...  
+```You``` * Jumps in front of the Red Stone *  
+```Yuna.shocked``` Huh?  
+```Red Stone``` 1... Transporting 2 people...  
+
+(maybe in between these 2 no need to make them click?)   
+(Screen slowly become white then fade to black)  
+
+### Background 4: (ehhh something like the "you are a detctive scene")  
+- (To be continued in the minecraft world...)  
 
 ## Thank you guys 😊
