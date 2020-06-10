@@ -6,8 +6,9 @@
 | ```Tatsumi``` | ```angry```, ```happy```, ```neutral```, ```sad```, ```shocked```, ```smiling``` |
 | ```Yuna``` | ```angry```, ```sad```, ```shocked```, ```smiling``` |
 
-Supplementary characters: ```You```, ```emptytextobject```
-| Additional charater: ```Detective 2``` , ```Red Stone``` |
+Supplementary characters: ```You```, ```emptytextobject```  
+Additional charaters (for ending): ```Detective 2```, ```Red Stone```
+
 ---
 
 ## Introduction Script
@@ -19,8 +20,8 @@ Supplementary characters: ```You```, ```emptytextobject```
 
 ### Background 1: Outside Mansion
 ```You``` Wow, Tatsumi's home sure is big!  
-```You``` The auction is happening today, I wonder, do those cars belong to the other bidders? (dif)    
-```You``` Hmm, they look wealthy ... I wonder who Tatsumi invited? (dif)  
+```You``` The auction is happening today, I wonder, do those cars belong to the other bidders?  
+```You``` Hmm, they look wealthy ... I wonder who Tatsumi invited?  
 
 ### Flashback
 5 days ago ...{w=0.5}  
@@ -28,11 +29,11 @@ Supplementary characters: ```You```, ```emptytextobject```
 ### Background 2: Flashback to Detective's Home 
 ```emptytextobject``` {audio=Phone Ringing}Ring ring ...{w=0.8} (Call from Tatsumi){w=1.8}  
 ```Tatsumi.smiling``` {audio=Phone Answer}{w=0.5}Hey, old friend!  
-```You``` Hey Tatsumi! (dif)   
+```You``` Hey Tatsumi!  
 ```You``` It's been a while, how are you doing?  
-```Tatsumi.sad``` Yeah, I guess so. I have been so busy with my invention... (dif)   
-```Tatsumi.happy``` Speaking of the invention, I just completed it! (dif)   
-```Tatsumi.smiling``` I will be auctioning it at my house in Kyoto this Saturday. Will you be available then? (dif)    
+```Tatsumi.sad``` Yeah, I guess so. I have been so busy with my invention ...  
+```Tatsumi.happy``` Speaking of the invention, I just completed it!  
+```Tatsumi.smiling``` I will be auctioning it at my house in Kyoto this Saturday. Will you be available then?  
 ```You``` Congratulations!  
 ```You``` Why do you need me there though?  
 ```Tatsumi.neutral``` Listen ...{w=0.5} The bidders I've invited are influential people.  
@@ -40,22 +41,22 @@ Supplementary characters: ```You```, ```emptytextobject```
 ```You``` Alright, I understand. I'll go undercover at your event.  
 ```Tatsumi.neutral``` Great! I'll send you the details.  
 ```Tatsumi.happy``` Thanks a lot pal!    
-```You``` You're welcome, see you there.{w=0.8}{audio=Phone Answer} (dif)   
+```You``` You're welcome, see you there.{w=0.8}{audio=Phone Answer}  
 
 ### Background 3: Outside Mansion
 ```Rinni.smiling``` {audio=Car Door}{w=2.5}Hi, are you here for the auction too? I'm Rinni, nice to meet you.  
-```You``` Hi Rinni, yeah I am, nice to meet you too. (dif)  
+```You``` Hi Rinni, yeah I am, nice to meet you too.  
 ```Rinni.smiling``` Well, this is a rather exquisite auction here. You must be an important person.  
 ```You``` Yeah, I guess so.  
 ```Rinni.smiling``` I see. Well I just had a long flight, from Paris.  
-```Rinni.smiling``` I do believe the other bidders are from various countries as well. (dif)   
+```Rinni.smiling``` I do believe the other bidders are from various countries as well.  
 ```Tatsumi.happy``` {audio=Door Open}{i}* interrupts *{/i}{w=1.5}  Welcome everyone! Please come in!  
-```Tatsumi.smiling``` The other guests have just arrived too. Please come in, make yourselves comfortable. (dif)  
+```Tatsumi.smiling``` The other guests have just arrived too. Please come in, make yourselves comfortable.  
 
 ### Background 4: Inside Mansion
-```Tatsumi.smiling``` Over here, we have Masao from Toronto.  (dif)
+```Tatsumi.smiling``` Over here, we have Masao from Toronto.  
 ```Masao.smiling```  {i}* nods *{/i} Hey.  
-```Tatsumi.smiling``` And Yuna from Sydney.  (dif)
+```Tatsumi.smiling``` And Yuna from Sydney.  
 ```Yuna.smiling```  Hello. It's been a long flight huh? You guys look exhausted.  
 ```Rinni.sad``` Yeah, it was quite a long flight. Even in First Class.  
 ```You``` I'm from Tokyo, nice to meet you guys.  
@@ -65,8 +66,8 @@ Supplementary characters: ```You```, ```emptytextobject```
 (put a fade here? ) (dif)  
 
 ### Background 5: Auction Starts
-```Tatsumi.smiling``` Good evening everyone I want to first start by saying thanks you all for coming to today's auction. (dif)  
-```Tatsumi.happy``` I hope you guys will be able to make good use of my invention! (dif)  
+```Tatsumi.smiling``` Good evening everyone! I want to first start by saying thank you for coming to today's auction. 
+```Tatsumi.happy``` I hope you guys will be able to make good use of my invention!  
 ```Tatsumi.neutral``` Now lets begin ...{w=1}  
 ```Tatsumi.smiling``` Yes, Yuna?  
 ```Yuna.smiling``` 100k!  
@@ -79,8 +80,8 @@ Supplementary characters: ```You```, ```emptytextobject```
 
 ### Background 7: Auction Disrupted
 ```Tatsumi.shocked``` The safe ... its open!{w=0.5} My invention is gone!  
-```Tatsumi.angry``` Who stole it?!{w=1} I have a security system to lock down the house down for emergencies like this! (dif)    
-```Tatsumi.angry``` I will find who took it. (dif)  
+```Tatsumi.angry``` Who stole it?!{w=1} I have a security system to lock down the house down for emergencies like this!  
+```Tatsumi.angry``` I will find who took it!  
 ```Masao.angry``` It's gonna take forever to find the culprit.  
 ```Masao.angry``` I think I'll head back to my room first!  
 ```Yuna.angry``` Me too!  
