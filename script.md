@@ -81,7 +81,7 @@ Additional charaters (for ending): ```Detective 2```, ```Red Stone```
 ```Masao.neutral``` ...  
 
 ### Background 6: Blackout
-```Tatsumi.shocked``` Oh! Whats going on?!  
+```Tatsumi.shocked``` Oh! What's going on?!  
 ```Tatsumi.shocked``` A blackout??  
 
 ### Background 7: Auction Disrupted
