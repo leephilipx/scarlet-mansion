@@ -16,7 +16,7 @@ Additional charaters (for ending): ```Detective 2```, ```Red Stone```
 > Note: Double space at the end of a line for line break
 
 ### Information
-{size=80}You are a {color=#ffff2d}detective{/color} in this game.{/size}{w=0.8}\n\n\n{i}{color=#fff2cf}Look out for {/color}{color=#ff4545}important{/color}{color=#fff2cf} clues!{/color}{/i}  
+\n\n\n\n{size=80}You are a {color=#ffff2d}detective{/color} in this game.{/size}{w=0.8}\n\n\n{i}{color=#fff2cf}Look out for {/color}{color=#ff4545}important{/color}{color=#fff2cf} clues!{/color}{/i}\n\n\n\n{w=1.5}{size=40}Click to continue ...{/size}  
 
 ### Background 1: Outside Mansion
 ```You``` Wow, Tatsumi's home sure is big!  
