@@ -176,12 +176,12 @@ To be continued in the minecraft world ...
 ```Masao.shocked``` Huhhhh?  
 ```Tatsumi.shocked``` The Redstone!  
 ```Yuna.smiling``` Oh my, you didn't suspect me at all. Tee-hee!  
-```Yuna.smiling``` I heard the Red Stone can transport people to the digital world.  
+```Yuna.smiling``` I heard that the Redstone can transport people to the digital world.  
 ```Yuna.smiling``` Now I will use its power to transport the whole world!  
-```Red Stone``` * Beep * Beginning transport in... 3... 2...  
-```You``` * Jumps in front of the Red Stone *  
+```Redstone``` {i}* beep *{/i} Beginning transport in ... 3 ... 2 ...  
+```You``` {i}* jumps in front of the Redstone *{/i}  
 ```Yuna.shocked``` Huh?  
-```Red Stone``` 1... Transporting 2 people...  
+```Redstone``` 1 ...    {w=0.5}Transporting 2 people ...  
 
 (maybe in between these 2 no need to make them click?)   
 (Screen slowly become white then fade to black)  
