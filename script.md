@@ -7,7 +7,7 @@
 | ```Yuna``` | ```angry```, ```sad```, ```shocked```, ```smiling``` |
 
 Supplementary characters: ```You```, ```emptytextobject```  
-Additional characters (for ending): ```Detective 2```, ```Red Stone```
+Additional characters (for ending): ```Detective 2```, ```Redstone```
 
 > Note: Double space at the end of a line for line break
 
@@ -98,23 +98,23 @@ Additional characters (for ending): ```Detective 2```, ```Red Stone```
 
 ## Ending 1 - Yuna Accused  
 
-#### Fade: 0, 0.5
+#### Fade: 0.0, 0.5
 
 ### Background 1: Inside Mansion
 ```Tatsumi.shocked``` You think the person who stole my invention is ...{w=0.5} Yuna?  
 ```Tatsumi.sad``` But why do you think she stole it?  
 ```You``` There is a high chance she was worried Rinni might out bid her.  
 ```Tatsumi.sad``` Yeah that could be why ... {w=0.5} What do you think she wanted it for?  
-```You``` No clue, but let's call the local police, they should be able to recover your invention from Yuna.    
+```You``` No clue, but let's call the police, they should be able to recover your invention from Yuna.  
 
 #### Fade: 0.5, 0.5 
 
-### Background 2: Yuna Arrested
-(Maybe a siren sound?)   
+### Background 2: Yuna Arrested 
 ```Yuna.shocked``` What's going on?  
 ```Rinni.shocked``` Why are there police outside?  
 ```Masao.neutral``` ...{w=0.5} Are they here to let us out?  
-```Tatsumi.sad``` We have called the police.{w=0.5} We know who stole the invention.  
+```Tatsumi.sad``` We have called the police.{w=0.5} We know who stole the invention.
+```emptytextobject``` {audio=Banging Door}{w=2}{audio=Door Open}{w=2.5}
 ```Detective 2``` Miss Yuna, you are under arrest.  
 ```Detective 2``` We have reason to believe you are responsible for the disappearance of Sir Tatsumi's invention.  
 ```Yuna.shocked``` Who me???{w=1}  
@@ -127,10 +127,9 @@ Additional characters (for ending): ```Detective 2```, ```Red Stone```
 
 ### Background 3: Police Car 
 ```Detective 2``` Miss Yuna, please get inside the car.  
-```Yuna.angry``` Hmphhh.  
-(door shut sound?)  
+```Yuna.angry``` {audio=Car Door}Hmphhh.{w=1.8}  
 ```Detective 2``` Sir Tatsumi, we found your invention hidden in her room as we were searching it.     
-```Tatsumi.happy``` Oh, thank you!   
+```Tatsumi.happy``` Oh, thank you!  
 ```You``` So what was your invention?   
 ```Tatsumi.neutral``` Oh I never did tell you did I?   
 ```Tatsumi.happy``` I was experimenting the other day with this stone.     
@@ -139,11 +138,11 @@ Additional characters (for ending): ```Detective 2```, ```Red Stone```
 ```Yuna.angry``` Hi-yahhhh! (Glass breaking sound or door breaking sound?)   
 ```Detective 2``` What was that sound?  
 ```Yuna.sad``` My plan to transport everyone to my new program was foiled.     
-```Yuna.smiling``` {i}* grabs Redstone from Tatsumi *{/i}{w=0.8} But I can still transport 2 people.     
-```Yuna.smiling``` Oh detective,{w=0.3} you are coming with me.  
+```Yuna.angry``` {i}* grabs Redstone from Tatsumi *{/i}{w=0.8}
+```Yuna.smiling``` But I can still transport 2 people.     
+```Yuna.smiling``` Oh detective,{w=0.3} you are coming with me.{w=2}  
 
-(maybe in between these 2 no need to make them click?)  
-(Screen slowly become white then fade to black)  
+#### Fade (white): 2.0, 1.0   
 
 ### End Scene
 To be continued in the minecraft world ...
@@ -152,12 +151,14 @@ To be continued in the minecraft world ...
 
 ## Ending 2 - Wrong Suspect  
 
+#### Fade: 0.0, 0.5
+
 ### Background 1: Inside Mansion 
 ```Tatsumi.shocked``` You think the person who stole my invention is ...{w=0.5} {$SuspectChosen}?     
 ```You``` Yes, I believe so.   
 ```Tatsumi.sad``` I see, ok. I will call the police.    
 
-(put the fade in and out animation in between?)   
+#### Fade: 0.5, 0.5   
 
 ### Background 2: Yuna Strikes 
 ```Yuna.shocked``` What's going on?  
@@ -178,13 +179,12 @@ To be continued in the minecraft world ...
 ```Yuna.smiling``` Oh my, you didn't suspect me at all. Tee-hee!  
 ```Yuna.smiling``` I heard that the Redstone can transport people to the digital world.  
 ```Yuna.smiling``` Now I will use its power to transport the whole world!  
-```Redstone``` {i}* beep *{/i} Beginning transport in ... 3 ... 2 ...  
-```You``` {i}* jumps in front of the Redstone *{/i}  
-```Yuna.shocked``` Huh?  
-```Redstone``` 1 ...    {w=0.5}Transporting 2 people ...  
+```Redstone``` {i}* beep *{/i}{w=0.8} Beginning transport in ... 3 ... 2 ...   
+```You``` {i}* jumps in front of the Redstone *{/i}{w=1.5}  
+```Yuna.shocked``` Huh?{w=1.5} 
+```Redstone``` 1 ...    {w=0.5}Transporting 2 people ...{w=2}  
 
-(maybe in between these 2 no need to make them click?)   
-(Screen slowly become white then fade to black)  
+#### Fade (white): 2.0, 1.0  
 
 ### End Scene
 To be continued in the minecraft world ...
@@ -193,8 +193,10 @@ To be continued in the minecraft world ...
 
 ## Ending 3 - Wrong Suspect (Tatsumi selected)  
 
+#### Fade: 0.0, 0.5
+
 ### Background 1: Inside Mansion
-```Tatsumi.shocked``` You think the person who stole my invention is ... ?      
+```Tatsumi.shocked``` You think the person who stole my invention is ...      
 ```You``` Yes I believe so, but I will have to tell the police directly.   
 ```Tatsumi.sad``` I see, ok. I will call the police.   
 
