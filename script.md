@@ -26,7 +26,7 @@ Additional charaters (for ending): ```Detective 2```, ```Red Stone```
 ### Flashback
 5 days ago ...{w=0.5}  
 
-[Fade: 0, 0.5]
+#### Fade: 0, 0.5
 
 ### Background 2: Flashback to Detective's Home 
 ```emptytextobject``` {audio=Phone Ringing}Ring ring ...{w=0.8} (Call from Tatsumi){w=1.8}  
@@ -45,7 +45,7 @@ Additional charaters (for ending): ```Detective 2```, ```Red Stone```
 ```Tatsumi.happy``` Thanks a lot pal!    
 ```You``` You're welcome, see you there.{w=0.6}{audio=Phone Answer}  
 
-[Fade: 0.5, 0.5]
+#### Fade: 0.5, 0.5
 
 ### Background 3: Outside Mansion
 ```Rinni.smiling``` {audio=Car Door}{w=2.5}Hi, are you here for the auction too? I'm Rinni, nice to meet you.  
@@ -57,7 +57,7 @@ Additional charaters (for ending): ```Detective 2```, ```Red Stone```
 ```Tatsumi.happy``` {audio=Door Open}{i}* interrupts *{/i}{w=1.5}  Welcome everyone! Please come in!  
 ```Tatsumi.smiling``` The other guests have just arrived too. Please come in, make yourselves comfortable.  
 
-[Fade: 0.2, 0.2]
+#### Fade: 0.2, 0.2
 
 ### Background 4: Inside Mansion
 ```Tatsumi.smiling``` Over here, we have Masao from Toronto.  
@@ -69,7 +69,7 @@ Additional charaters (for ending): ```Detective 2```, ```Red Stone```
 ```Tatsumi.smiling``` You two can unpack upstairs and freshen up.  
 ```Tatsumi.happy``` Our auction will begin in an hour!  
 
-[Fade: 0.5, 0.5]
+#### Fade: 0.5, 0.5
 
 ### Background 5: Auction Starts
 ```Tatsumi.smiling``` Good evening everyone! I want to first start by saying thank you for coming to today's auction. 
@@ -94,17 +94,11 @@ Additional charaters (for ending): ```Detective 2```, ```Red Stone```
 ```Rinni.angry``` Well, there's nothing else to do now.  
 ```Rinni.angry``` I'll just look around ... This place is huge.  
 
-### Canvas - Instructions
-- Try to finish the game within 30 minutes
-- WASD to move around
-- Press [P] to Pause
-- Press [Q] to bring up your inventory
-- Press [E] to interact with objects (magnifying glass will be shown)
-- Press [E] to interact with characters when their nametag turn yellow
-
 ---
 
 ## Ending 1 - Yuna accused  
+
+#### Fade: 0, 0.5
 
 ### Background 1: The inside of the house image (Fireplace one)  
 ```Tatsumi.shocked``` You think the person who stole my invention is ...{w=0.5} Yuna?  
