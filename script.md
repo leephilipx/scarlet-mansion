@@ -152,29 +152,29 @@ To be continued in the minecraft world ...
 
 ## Ending 2 - Wrong Suspect  
 
-### Background 1: The inside of the house image (Fireplace one)  
-```Tatsumi.shocked``` You think the person who stole my invention is ... {w=0.5} (replace here)?      
+### Background 1: Inside Mansion 
+```Tatsumi.shocked``` You think the person who stole my invention is ...{w=0.5} {$SuspectChosen}?     
 ```You``` Yes, I believe so.   
-```Tatsumi.sad``` I see, ok. I will call the local police.    
+```Tatsumi.sad``` I see, ok. I will call the police.    
 
 (put the fade in and out animation in between?)   
 
-### Background 2: The inside of the house image (Maybe a siren sound?)   
-```Yuna.shocked``` What's going on?    
-```Rinni.shocked``` Why are there police outside the mansion?   
-```Masao.neutral``` ... {w=0.5} Are they here to let us out?    
-```Tatsumi.sad``` We have called the police. {w=0.5} We know who stole the invention.  
-```Detective 2``` Hello, we received a report saying that Sir Tatsumi Invention has been stolen...  {w=0.2}and that one of you has it...    
-```Rinni.shocked``` What do you mean detective?   
+### Background 2: Yuna Strikes 
+```Yuna.shocked``` What's going on?  
+```Rinni.shocked``` Why are there police outside?  
+```Masao.neutral``` ...{w=0.5} Are they here to let us out?  
+```Tatsumi.sad``` We have called the police.{w=0.5} We know who stole the invention.  
+```Detective 2``` Hello, we received a report saying that Sir Tatsumi's invention has been stolen ... {w=0.2}and that one of you has it ...  
+```Rinni.shocked``` What do you mean, detective?   
 ```Yuna.shocked``` Are you sure it didn't just decided to take a vacation?  
 ```Masao.neutral``` ...   
 ```Detective 2``` My fellow detective here has looked at all the evidence.  
-```You``` * Nods *  
+```You``` {i}* nods *{/i}  
 ```Detective 2``` I am sure the invention is with ...  
-```Yuna.smiling``` Do you mean this invention? The Red stone?     
+```Yuna.smiling``` Do you mean this invention? The Redstone?   
 ```Rinni.shocked``` Whaaa  
 ```Masao.shocked``` Huhhhh?  
-```Tatsumi.shocked``` The Red Stone!  
+```Tatsumi.shocked``` The Redstone!  
 ```Yuna.smiling``` Oh my, you didn't suspect me at all. Tee-hee!  
 ```Yuna.smiling``` I heard the Red Stone can transport people to the digital world.  
 ```Yuna.smiling``` Now I will use its power to transport the whole world!  
@@ -193,40 +193,14 @@ To be continued in the minecraft world ...
 
 ## Ending 3 - Wrong Suspect (Tatsumi selected)  
 
-### Background 1: The inside of the house image (Fireplace one)  
+### Background 1: Inside Mansion
 ```Tatsumi.shocked``` You think the person who stole my invention is ... ?      
 ```You``` Yes I believe so, but I will have to tell the police directly.   
-```Tatsumi.sad``` I see ok I will call the local police.    
-(put the fade in and out animation in between?)   
+```Tatsumi.sad``` I see, ok. I will call the police.   
 
-### Background 2: The inside of the house image (Maybe a siren sound?)   
-```Yuna.shocked``` Whats going on?    
-```Rinni.shocked``` Why are there police outside the mansion?   
-```Masao.neutral``` ... {w=0.5} Are they here to let us out?    
-```Tatsumi.sad``` We have called the police. {w=0.5} We know who stole the invention.  
-```Detective 2``` Hello, we received a report saying that Sir Tatsumi Invention has been stolen...  {w=0.2}and that one of you has it...    
-```Rinni.shocked``` What do you mean detective?   
-```Yuna.shocked``` Are you sure it didn't just decided to take a vacation?  
-```Masao.neutral``` ...   
-```Detective 2``` My fellow detective here has looked at all the evidence.  
-```You``` * Nods *  
-```Detective 2``` I am sure the invention is with ...  
-```Yuna.smiling``` Do you mean this invention? The Red stone?     
-```Rinni.shocked``` Whaaa  
-```Masao.shocked``` Huhhhh?  
-```Tatsumi.shocked``` The Red Stone!  
-```Yuna.smiling``` Oh my, you didn't suspect me at all. Tee-hee!  
-```Yuna.smiling``` I heard the Red Stone can transport people to the digital world.  
-```Yuna.smiling``` Now I will use its power to transport the whole world!  
-```Red Stone``` * Beep * Beginning transport in... 3... 2...  
-```You``` * Jumps in front of the Red Stone *  
-```Yuna.shocked``` Huh?  
-```Red Stone``` 1... Transporting 2 people...  
-(maybe in between these 2 no need to make them click?)   
-(Screen slowly become white then fade to black)  
+#### Fade: 0.5, 0.5
 
-### End Scene
-To be continued in the minecraft world ... 
+< Same as Ending 2 >
 
 ---
 
