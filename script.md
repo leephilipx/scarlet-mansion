@@ -165,6 +165,7 @@ To be continued in the minecraft world ...
 ```Rinni.shocked``` Why are there police outside?  
 ```Masao.neutral``` ...{w=0.5} Are they here to let us out?  
 ```Tatsumi.sad``` We have called the police.{w=0.5} We know who stole the invention.  
+```emptytextobject``` {audio=Banging Door}{w=2}{audio=Door Open}{w=2.5}  
 ```Detective 2``` Hello, we received a report saying that Sir Tatsumi's invention has been stolen ... {w=0.2}and that one of you has it ...  
 ```Rinni.shocked``` What do you mean, detective?   
 ```Yuna.shocked``` Are you sure it didn't just decided to take a vacation?  
@@ -173,7 +174,7 @@ To be continued in the minecraft world ...
 ```You``` {i}* nods *{/i}  
 ```Detective 2``` I am sure the invention is with ...  
 ```Yuna.smiling``` Do you mean this invention? The Redstone?   
-```Rinni.shocked``` Whaaa  
+```Rinni.shocked``` Whaaa ...  
 ```Masao.shocked``` Huhhhh?  
 ```Tatsumi.shocked``` The Redstone!  
 ```Yuna.smiling``` Oh my, you didn't suspect me at all. Tee-hee!  
