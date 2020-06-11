@@ -144,7 +144,7 @@ Additional charaters (for ending): ```Detective 2```, ```Red Stone```
 ### Background 4: (ehhh something like the "you are a detctive scene")  
 - (To be continued in the minecraft world...)  
 
-
+---
 
 ## Ending 2 - Wrong ending  
 
