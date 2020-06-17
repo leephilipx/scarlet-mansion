@@ -72,9 +72,9 @@ Additional characters (for ending): ```Detective 2```, ```Redstone```
 #### Fade: 0.5, 0.5
 
 ### Background 5: Auction Starts
-```Tatsumi.smiling``` Good evening everyone! I want to first start by saying thank you for coming to today's auction. 
+```Tatsumi.smiling``` Good evening everyone! I want to first start by saying thank you for coming to today's auction.  
 ```Tatsumi.happy``` I hope you guys will be able to make good use of my invention!  
-```Tatsumi.neutral``` Now lets begin ...{w=1}  
+```Tatsumi.neutral``` Now let's begin ...{w=1}  
 ```Tatsumi.smiling``` Yes, Yuna?  
 ```Yuna.smiling``` 100k!  
 ```Rinni.smiling``` Make that double!  
@@ -85,7 +85,7 @@ Additional characters (for ending): ```Detective 2```, ```Redstone```
 ```Tatsumi.shocked``` A blackout??  
 
 ### Background 7: Auction Disrupted
-```Tatsumi.shocked``` The safe ... its open!{w=0.5} My invention is gone!  
+```Tatsumi.shocked``` The safe ... it's open!{w=0.5} My invention is gone!  
 ```Tatsumi.angry``` Who stole it?!{w=1} I have a security system to lock down the house down for emergencies like this!  
 ```Tatsumi.angry``` I will find who took it!  
 ```Masao.angry``` It's gonna take forever to find the culprit.  
